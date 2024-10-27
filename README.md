@@ -1,7 +1,7 @@
 Hola soy Beatriz Bermejo
 
-En este repositorio lo que he realizado es migrar un proyecto que ya tenia hecho a ContextAPI
-Con eso nos ahorramos estar definiedo props en todos los componentes
+Este repositorio es una migracion de un proyector de React+TS a utilizar contetxApi para optimizar el codigo.
+Evitamos tener que crear props en nuestros componentes.-
 
 
 
