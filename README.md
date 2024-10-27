@@ -1,3 +1,11 @@
+Hola soy Beatriz Bermejo
+
+En este repositorio lo que he realizado es migrar un proyecto que ya tenia hecho a ContextAPI
+Con eso nos ahorramos estar definiedo props en todos los componentes
+
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
